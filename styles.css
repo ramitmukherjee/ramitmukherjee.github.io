@@ -1,0 +1,40 @@
+body {
+    padding: 20px 0;
+  }
+  
+  .main-container {
+    margin: 0 auto;
+    border: 3px solid lightcoral;
+    width: 80%;
+    height: 900px;
+  }
+
+  .chollo {
+    display: flex;
+    justify-content: center;
+  }
+
+  .container {
+    position: relative;
+    width: 394px;
+    height: 525px;
+    margin: 0 auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none; 
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .canvas {
+    width: 394px;
+    height: 525px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .form {
+    padding: 20px;
+    padding-top:200px;
+    margin: auto, auto;
+  }
